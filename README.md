@@ -1,0 +1,2 @@
+# SentiStrength
+readme file
